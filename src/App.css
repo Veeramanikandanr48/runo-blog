@@ -1,0 +1,20 @@
+* {
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: "Spartan-Bold";
+  src: url("./fonts/LeagueSpartan-Bold.ttf");
+}
+@font-face {
+  font-family: "Spartan";
+  src: url("./fonts/LeagueSpartan-Regular.ttf");
+}
+@font-face {
+  font-family: "Roboto-Medium";
+  src: url("./fonts/Roboto-Medium.ttf");
+}
+@font-face {
+  font-family: "Lora";
+  src: url("./fonts/Lora-VariableFont_wght.ttf");
+}
